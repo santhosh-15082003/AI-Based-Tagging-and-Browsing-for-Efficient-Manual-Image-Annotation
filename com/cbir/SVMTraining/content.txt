@@ -187,3 +187,4 @@ left eye=santhosh2.png
 right eye=santhosh2.png
 14=tiger3.jpg
 tigers head=tiger3.jpg
+eye=tiger.jpg
